@@ -9,4 +9,4 @@ tips:
 absolute path or a file with relative path or even a suffix(.class for example);
 3.set your mail properties, you should set your mail address and password, and also the receiver(s). write down the subject in the end;
 4.set the timer properties, the argument of starttime defines the schedule time of the task. And period means the interval of the schedule,
-it could be minutes or hours(10m or 2h for example).
+it could be minutes or hours(10m or 2h for example). 
