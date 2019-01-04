@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+	<compare ID="compareTask1">
+		<gitFolder>C:\CDTWorkspace\MIP-GUI</gitFolder>
+		<shareFolder>C:\CDTWorkspace\MIP-GUI_svn</shareFolder>
+		<excludeFiles>
+			<excludeFile>C:\CDTWorkspace\MIP-GUI\.tomcatplugin</excludeFile>
+			<excludeFile>DBUtil.java</excludeFile>
+			<excludeFile>.xml</excludeFile>
+			<excludeFile>.class</excludeFile>
+			<excludeFile>.png</excludeFile>
+		</excludeFiles>
+		<gitProps ID="gitProps">
+			<localCodeDir>C:\Users\a805370\Test\ZeusUI</localCodeDir>
+			<remoteRepoGitDir>http://jabdl3824.it.statestr.com/Athena/ZeusUI.git</remoteRepoGitDir>
+			<username>a805370</username>
+			<password></password>
+		</gitProps>
+		<mailProps>
+			<sender>GHu@StateStreet.com</sender>
+			<password></password>
+			<subject>Compare Result</subject>
+			<receivers>
+				<receiver>GHu@StateStreet.com</receiver>
+				<receiver>GHu@StateStreet.com</receiver>
+				<receiver>GHu@StateStreet.com</receiver>
+			</receivers>
+		</mailProps>
+	</compare>
+<!-- 
+	<compare ID="compareTask2">
+		<gitFolder>C:\Users\a805370\TomcatRunner\cms</gitFolder>
+		<shareFolder>C:\Users\a805370\TomcatRunner\cms2</shareFolder>
+		<excludeFiles>
+			<excludeFile>C:\CDTWorkspace\MIP-GUI\.tomcatplugin</excludeFile>
+			<excludeFile>DBUtil.java</excludeFile>
+			<excludeFile>.xml</excludeFile>
+			<excludeFile>.class</excludeFile>
+			<excludeFile>.log</excludeFile>
+		</excludeFiles>
+		<gitProps ID="gitProps">
+			<localCodeDir>C:\Users\a805370\Test\ZeusUI</localCodeDir>
+			<remoteRepoGitDir>http://jabdl3824.it.statestr.com/Athena/ZeusUI.git</remoteRepoGitDir>
+			<username>a805370</username>
+			<password></password>
+		</gitProps>
+		<mailProps>
+			<sender>GHu@StateStreet.com</sender>
+			<password></password>
+			<subject>Compare Result</subject>
+			<receivers>
+				<receiver>GHu@StateStreet.com</receiver>
+				<receiver>GHu@StateStreet.com</receiver>
+			</receivers>
+		</mailProps>
+	</compare>
+
+	<compare ID="compareTask3">
+		<gitFolder>C:\Users\a805370\TomcatRunner\cms</gitFolder>
+		<shareFolder>C:\Users\a805370\TomcatRunner\cms2</shareFolder>
+		<excludeFiles>
+			<excludeFile>C:\CDTWorkspace\MIP-GUI\.tomcatplugin</excludeFile>
+			<excludeFile>DBUtil.java</excludeFile>
+			<excludeFile>.xml</excludeFile>
+			<excludeFile>.class</excludeFile>
+			<excludeFile>.log</excludeFile>
+		</excludeFiles>
+		<gitProps ID="gitProps">
+			<localCodeDir>C:\Users\a805370\Test\ZeusUI</localCodeDir>
+			<remoteRepoGitDir>http://jabdl3824.it.statestr.com/Athena/ZeusUI.git</remoteRepoGitDir>
+			<username>a805370</username>
+			<password></password>
+		</gitProps>
+		<mailProps>
+			<sender>GHu@StateStreet.com</sender>
+			<password></password>
+			<subject>Compare Result</subject>
+			<receivers>
+				<receiver>GHu@StateStreet.com</receiver>
+				<receiver>GHu@StateStreet.com</receiver>
+			</receivers>
+		</mailProps>
+	</compare>
+
+	<compare ID="compareTask4">
+		<gitFolder>C:\Users\a805370\TomcatRunner\cms</gitFolder>
+		<shareFolder>C:\Users\a805370\TomcatRunner\cms2</shareFolder>
+		<excludeFiles>
+			<excludeFile>C:\CDTWorkspace\MIP-GUI\.tomcatplugin</excludeFile>
+			<excludeFile>DBUtil.java</excludeFile>
+			<excludeFile>.xml</excludeFile>
+			<excludeFile>.class</excludeFile>
+			<excludeFile>.log</excludeFile>
+		</excludeFiles>
+		<gitProps ID="gitProps">
+			<localCodeDir>C:\Users\a805370\Test\ZeusUI</localCodeDir>
+			<remoteRepoGitDir>http://jabdl3824.it.statestr.com/Athena/ZeusUI.git</remoteRepoGitDir>
+			<username>a805370</username>
+			<password></password>
+		</gitProps>
+		<mailProps>
+			<sender>GHu@StateStreet.com</sender>
+			<password></password>
+			<subject>Compare Result</subject>
+			<receivers>
+				<receiver>GHu@StateStreet.com</receiver>
+				<receiver>GHu@StateStreet.com</receiver>
+			</receivers>
+		</mailProps>
+	</compare>
+ -->
+	<compare ID="compareTask5">
+		<gitFolder>C:\Users\a805370\TomcatRunner\cms</gitFolder>
+		<shareFolder>C:\Users\a805370\TomcatRunner\cms2</shareFolder>
+		<excludeFiles>
+			<excludeFile>C:\CDTWorkspace\MIP-GUI\.tomcatplugin</excludeFile>
+			<excludeFile>DBUtil.java</excludeFile>
+			<excludeFile>.xml</excludeFile>
+			<excludeFile>.class</excludeFile>
+			<excludeFile>.log</excludeFile>
+		</excludeFiles>
+		<gitProps ID="gitProps">
+			<localCodeDir>C:\Users\a805370\Test\ZeusUI</localCodeDir>
+			<remoteRepoGitDir>http://jabdl3824.it.statestr.com/Athena/ZeusUI.git</remoteRepoGitDir>
+			<username>a805370</username>
+			<password></password>
+		</gitProps>
+		<mailProps>
+			<sender>GHu@StateStreet.com</sender>
+			<password></password>
+			<subject>Compare Result</subject>
+			<receivers>
+				<receiver>GHu@StateStreet.com</receiver>
+				<receiver>GHu@StateStreet.com</receiver>
+			</receivers>
+		</mailProps>
+	</compare>
+
+
+	<schedule ID="schedule">
+		<starttime>2018-11-28 17:28:30</starttime>
+		<period>1m</period>
+	</schedule>
+	
+
+</root>

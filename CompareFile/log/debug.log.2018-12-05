@@ -1,0 +1,218 @@
+2018-12-05 09:58:49 [main:0] -[INFO] task start...
+2018-12-05 09:58:49 [main:54] -[INFO] read schedule info from config.properties
+2018-12-05 09:58:49 [main:112] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 09:58:49 [main:113] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 09:58:49 [Timer-0:118] -[INFO] read file info from config.properties...
+2018-12-05 09:58:49 [Timer-0:122] -[INFO] read git folder path from config.properties
+2018-12-05 09:58:49 [Timer-0:129] -[INFO] read svn folder path from config.properties
+2018-12-05 09:58:49 [Timer-0:131] -[INFO] get files from config.properties that not need to compare
+2018-12-05 09:58:49 [Timer-0:132] -[INFO] compare begin...
+2018-12-05 09:58:49 [Timer-0:133] -[INFO] get files from git folder
+2018-12-05 09:58:49 [Timer-0:358] -[INFO] get files from svn folder
+2018-12-05 09:58:49 [Timer-0:519] -[INFO] comparing...
+2018-12-05 10:08:07 [main:0] -[INFO] task start...
+2018-12-05 10:08:07 [main:2] -[INFO] read schedule info from config.properties
+2018-12-05 10:08:07 [main:6] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 10:08:07 [main:6] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 10:08:07 [Timer-0:7] -[INFO] read file info from config.properties...
+2018-12-05 10:08:07 [Timer-0:8] -[INFO] read git folder path from config.properties
+2018-12-05 10:08:07 [Timer-0:10] -[INFO] read svn folder path from config.properties
+2018-12-05 10:08:07 [Timer-0:11] -[INFO] get files from config.properties that not need to compare
+2018-12-05 10:08:07 [Timer-0:11] -[INFO] compare begin...
+2018-12-05 10:08:07 [Timer-0:11] -[INFO] get files from git folder
+2018-12-05 10:08:07 [Timer-0:206] -[INFO] get files from svn folder
+2018-12-05 10:08:07 [Timer-0:365] -[INFO] comparing...
+2018-12-05 10:08:18 [main:0] -[INFO] task start...
+2018-12-05 10:08:18 [main:2] -[INFO] read schedule info from config.properties
+2018-12-05 10:08:18 [main:6] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 10:08:18 [main:6] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 10:08:18 [Timer-0:7] -[INFO] read file info from config.properties...
+2018-12-05 10:08:18 [Timer-0:8] -[INFO] read git folder path from config.properties
+2018-12-05 10:08:18 [Timer-0:10] -[INFO] read svn folder path from config.properties
+2018-12-05 10:08:18 [Timer-0:10] -[INFO] get files from config.properties that not need to compare
+2018-12-05 10:08:18 [Timer-0:11] -[INFO] compare begin...
+2018-12-05 10:08:18 [Timer-0:11] -[INFO] get files from git folder
+2018-12-05 10:08:19 [Timer-0:200] -[INFO] get files from svn folder
+2018-12-05 10:08:19 [Timer-0:352] -[INFO] comparing...
+2018-12-05 10:14:57 [main:0] -[INFO] task start...
+2018-12-05 10:14:57 [main:2] -[INFO] read schedule info from config.properties
+2018-12-05 10:14:57 [main:5] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 10:14:57 [main:6] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 10:14:57 [Timer-0:7] -[INFO] read file info from config.properties...
+2018-12-05 10:14:57 [Timer-0:8] -[INFO] read git folder path from config.properties
+2018-12-05 10:14:57 [Timer-0:10] -[INFO] read svn folder path from config.properties
+2018-12-05 10:14:57 [Timer-0:10] -[INFO] get files from config.properties that not need to compare
+2018-12-05 10:14:57 [Timer-0:11] -[INFO] compare begin...
+2018-12-05 10:14:57 [Timer-0:11] -[INFO] get files from git folder
+2018-12-05 10:14:57 [Timer-0:12] -[INFO] get files from svn folder
+2018-12-05 10:14:57 [Timer-0:14] -[INFO] comparing...
+2018-12-05 10:14:57 [Timer-0:170] -[INFO] compare finished!
+2018-12-05 10:14:57 [Timer-0:211] -[ERROR] IO Exception!
+2018-12-05 14:07:28 [main:0] -[INFO] task start...
+2018-12-05 14:07:28 [main:13] -[INFO] read schedule info from config.properties
+2018-12-05 14:07:28 [main:36] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 14:07:28 [main:36] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 14:07:28 [Timer-0:38] -[INFO] read file info from config.properties...
+2018-12-05 14:07:28 [Timer-0:49] -[INFO] read git folder path from config.properties
+2018-12-05 14:07:28 [Timer-0:51] -[INFO] read svn folder path from config.properties
+2018-12-05 14:07:28 [Timer-0:51] -[INFO] get files from config.properties that not need to compare
+2018-12-05 14:07:28 [Timer-0:51] -[INFO] compare begin...
+2018-12-05 14:07:28 [Timer-0:51] -[INFO] get files from git folder
+2018-12-05 14:07:29 [Timer-0:53] -[INFO] get files from svn folder
+2018-12-05 14:07:29 [Timer-0:55] -[INFO] comparing...
+2018-12-05 14:07:29 [Timer-0:78] -[INFO] compare finished!
+2018-12-05 14:07:29 [Timer-0:98] -[ERROR] IO Exception!
+2018-12-05 14:10:01 [main:0] -[INFO] task start...
+2018-12-05 14:10:01 [main:2] -[INFO] read schedule info from config.properties
+2018-12-05 14:10:01 [main:5] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 14:10:01 [main:5] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 14:10:01 [Timer-0:6] -[INFO] read file info from config.properties...
+2018-12-05 14:10:01 [Timer-0:17] -[INFO] read git folder path from config.properties
+2018-12-05 14:10:01 [Timer-0:19] -[INFO] read svn folder path from config.properties
+2018-12-05 14:10:01 [Timer-0:19] -[INFO] get files from config.properties that not need to compare
+2018-12-05 14:10:01 [Timer-0:20] -[INFO] compare begin...
+2018-12-05 14:10:01 [Timer-0:20] -[INFO] get files from git folder
+2018-12-05 14:10:01 [Timer-0:21] -[INFO] get files from svn folder
+2018-12-05 14:10:01 [Timer-0:23] -[INFO] comparing...
+2018-12-05 14:10:01 [Timer-0:39] -[INFO] compare finished!
+2018-12-05 14:10:01 [Timer-0:54] -[ERROR] IO Exception!
+2018-12-05 14:12:26 [main:0] -[INFO] task start...
+2018-12-05 14:12:26 [main:2] -[INFO] read schedule info from config.properties
+2018-12-05 14:12:26 [main:5] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 14:12:26 [main:5] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 14:12:26 [Timer-0:6] -[INFO] read file info from config.properties...
+2018-12-05 14:12:26 [Timer-0:18] -[INFO] read git folder path from config.properties
+2018-12-05 14:12:26 [Timer-0:20] -[INFO] read svn folder path from config.properties
+2018-12-05 14:12:26 [Timer-0:20] -[INFO] get files from config.properties that not need to compare
+2018-12-05 14:12:26 [Timer-0:20] -[INFO] compare begin...
+2018-12-05 14:12:26 [Timer-0:21] -[INFO] get files from git folder
+2018-12-05 14:12:26 [Timer-0:22] -[INFO] get files from svn folder
+2018-12-05 14:12:26 [Timer-0:23] -[INFO] comparing...
+2018-12-05 14:12:26 [Timer-0:39] -[INFO] compare finished!
+2018-12-05 14:12:26 [Timer-0:54] -[ERROR] IO Exception!
+2018-12-05 14:14:01 [main:0] -[INFO] task start...
+2018-12-05 14:14:01 [main:2] -[INFO] read schedule info from config.properties
+2018-12-05 14:14:01 [main:5] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 14:14:01 [main:5] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 14:14:01 [Timer-0:7] -[INFO] read file info from config.properties...
+2018-12-05 14:14:01 [Timer-0:18] -[INFO] read git folder path from config.properties
+2018-12-05 14:14:01 [Timer-0:20] -[INFO] read svn folder path from config.properties
+2018-12-05 14:14:01 [Timer-0:21] -[INFO] get files from config.properties that not need to compare
+2018-12-05 14:14:01 [Timer-0:21] -[INFO] compare begin...
+2018-12-05 14:14:01 [Timer-0:22] -[INFO] get files from git folder
+2018-12-05 14:14:01 [Timer-0:23] -[INFO] get files from svn folder
+2018-12-05 14:14:01 [Timer-0:26] -[INFO] comparing...
+2018-12-05 14:14:01 [Timer-0:43] -[INFO] compare finished!
+2018-12-05 14:14:01 [Timer-0:44] -[ERROR] IO Exception!
+2018-12-05 14:17:56 [main:0] -[INFO] task start...
+2018-12-05 14:17:56 [main:2] -[INFO] read schedule info from config.properties
+2018-12-05 14:17:56 [main:5] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 14:17:56 [main:6] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 14:17:56 [Timer-0:31] -[INFO] read file info from config.properties...
+2018-12-05 14:17:56 [Timer-0:42] -[INFO] read git folder path from config.properties
+2018-12-05 14:17:56 [Timer-0:44] -[INFO] read svn folder path from config.properties
+2018-12-05 14:17:56 [Timer-0:45] -[INFO] get files from config.properties that not need to compare
+2018-12-05 14:17:56 [Timer-0:45] -[INFO] compare begin...
+2018-12-05 14:17:56 [Timer-0:46] -[INFO] get files from git folder
+2018-12-05 14:17:56 [Timer-0:47] -[INFO] get files from svn folder
+2018-12-05 14:17:56 [Timer-0:49] -[INFO] comparing...
+2018-12-05 14:17:56 [Timer-0:66] -[INFO] compare finished!
+2018-12-05 14:17:56 [Timer-0:81] -[ERROR] IO Exception!
+2018-12-05 14:19:18 [main:0] -[INFO] task start...
+2018-12-05 14:19:18 [main:2] -[INFO] read schedule info from config.properties
+2018-12-05 14:19:18 [main:5] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 14:19:18 [main:6] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 14:19:18 [Timer-0:7] -[INFO] read file info from config.properties...
+2018-12-05 14:19:18 [Timer-0:19] -[INFO] read git folder path from config.properties
+2018-12-05 14:19:18 [Timer-0:20] -[INFO] read svn folder path from config.properties
+2018-12-05 14:19:18 [Timer-0:21] -[INFO] get files from config.properties that not need to compare
+2018-12-05 14:19:18 [Timer-0:21] -[INFO] compare begin...
+2018-12-05 14:19:18 [Timer-0:22] -[INFO] get files from git folder
+2018-12-05 14:19:18 [Timer-0:23] -[INFO] get files from svn folder
+2018-12-05 14:19:18 [Timer-0:25] -[INFO] comparing...
+2018-12-05 14:19:18 [Timer-0:40] -[INFO] compare finished!
+2018-12-05 14:19:18 [Timer-0:54] -[ERROR] IO Exception!
+2018-12-05 17:44:35 [main:0] -[INFO] task start...
+2018-12-05 17:44:35 [main:8] -[INFO] read schedule info from config.properties
+2018-12-05 17:44:35 [main:19] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 17:44:35 [main:20] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 17:44:35 [Timer-0:21] -[INFO] read file info from config.properties...
+2018-12-05 17:44:35 [Timer-0:68] -[INFO] read git folder path from config.properties
+2018-12-05 17:44:35 [Timer-0:70] -[INFO] read svn folder path from config.properties
+2018-12-05 17:44:35 [Timer-0:70] -[INFO] get files from config.properties that not need to compare
+2018-12-05 17:44:35 [Timer-0:71] -[INFO] compare begin...
+2018-12-05 17:44:35 [Timer-0:71] -[INFO] get files from git folder
+2018-12-05 17:44:35 [Timer-0:73] -[INFO] get files from svn folder
+2018-12-05 17:44:35 [Timer-0:76] -[INFO] comparing...
+2018-12-05 17:44:35 [Timer-0:99] -[INFO] compare finished!
+2018-12-05 17:44:35 [Timer-0:118] -[ERROR] IO Exception!
+2018-12-05 17:45:42 [main:0] -[INFO] task start...
+2018-12-05 17:45:42 [main:2] -[INFO] read schedule info from config.properties
+2018-12-05 17:45:42 [main:5] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 17:45:42 [main:5] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 17:45:42 [Timer-0:7] -[INFO] read file info from config.properties...
+2018-12-05 17:45:42 [Timer-0:18] -[INFO] read git folder path from config.properties
+2018-12-05 17:45:42 [Timer-0:20] -[INFO] read svn folder path from config.properties
+2018-12-05 17:45:42 [Timer-0:20] -[INFO] get files from config.properties that not need to compare
+2018-12-05 17:45:42 [Timer-0:21] -[INFO] compare begin...
+2018-12-05 17:45:42 [Timer-0:21] -[INFO] get files from git folder
+2018-12-05 17:45:42 [Timer-0:22] -[INFO] get files from svn folder
+2018-12-05 17:45:42 [Timer-0:25] -[INFO] comparing...
+2018-12-05 17:45:42 [Timer-0:41] -[INFO] compare finished!
+2018-12-05 17:45:42 [Timer-0:42] -[ERROR] IO Exception!
+2018-12-05 17:55:07 [main:0] -[INFO] task start...
+2018-12-05 17:55:07 [main:2] -[INFO] read schedule info from config.properties
+2018-12-05 17:55:07 [main:5] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 17:55:07 [main:5] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 17:55:07 [Timer-0:7] -[INFO] read file info from config.properties...
+2018-12-05 17:55:07 [Timer-0:19] -[INFO] read git folder path from config.properties
+2018-12-05 17:55:07 [Timer-0:20] -[INFO] read svn folder path from config.properties
+2018-12-05 17:55:07 [Timer-0:21] -[INFO] get files from config.properties that not need to compare
+2018-12-05 17:55:07 [Timer-0:21] -[INFO] compare begin...
+2018-12-05 17:55:07 [Timer-0:22] -[INFO] get files from git folder
+2018-12-05 17:55:07 [Timer-0:23] -[INFO] get files from svn folder
+2018-12-05 17:55:07 [Timer-0:26] -[INFO] comparing...
+2018-12-05 17:55:07 [Timer-0:41] -[INFO] compare finished!
+2018-12-05 17:55:07 [Timer-0:56] -[ERROR] IO Exception!
+2018-12-05 17:55:42 [main:0] -[INFO] task start...
+2018-12-05 17:55:42 [main:2] -[INFO] read schedule info from config.properties
+2018-12-05 17:55:42 [main:5] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 17:55:42 [main:5] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 17:55:42 [Timer-0:7] -[INFO] read file info from config.properties...
+2018-12-05 17:55:42 [Timer-0:18] -[INFO] read git folder path from config.properties
+2018-12-05 17:55:42 [Timer-0:20] -[INFO] read svn folder path from config.properties
+2018-12-05 17:55:42 [Timer-0:20] -[INFO] get files from config.properties that not need to compare
+2018-12-05 17:55:42 [Timer-0:21] -[INFO] compare begin...
+2018-12-05 17:55:42 [Timer-0:21] -[INFO] get files from git folder
+2018-12-05 17:55:42 [Timer-0:22] -[INFO] get files from svn folder
+2018-12-05 17:55:42 [Timer-0:24] -[INFO] comparing...
+2018-12-05 17:55:42 [Timer-0:39] -[INFO] compare finished!
+2018-12-05 17:55:42 [Timer-0:55] -[ERROR] IO Exception!
+2018-12-05 17:57:14 [main:0] -[INFO] task start...
+2018-12-05 17:57:14 [main:2] -[INFO] read schedule info from config.properties
+2018-12-05 17:57:14 [main:6] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 17:57:14 [main:6] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 17:57:14 [Timer-0:14] -[INFO] read file info from config.properties...
+2018-12-05 17:57:14 [Timer-0:26] -[INFO] read git folder path from config.properties
+2018-12-05 17:57:14 [Timer-0:28] -[INFO] read svn folder path from config.properties
+2018-12-05 17:57:14 [Timer-0:28] -[INFO] get files from config.properties that not need to compare
+2018-12-05 17:57:14 [Timer-0:29] -[INFO] compare begin...
+2018-12-05 17:57:14 [Timer-0:29] -[INFO] get files from git folder
+2018-12-05 17:57:14 [Timer-0:30] -[INFO] get files from svn folder
+2018-12-05 17:57:14 [Timer-0:32] -[INFO] comparing...
+2018-12-05 17:57:14 [Timer-0:47] -[INFO] compare finished!
+2018-12-05 17:57:14 [Timer-0:62] -[ERROR] IO Exception!
+2018-12-05 18:05:34 [main:0] -[INFO] task start...
+2018-12-05 18:05:34 [main:2] -[INFO] read schedule info from config.properties
+2018-12-05 18:05:34 [main:5] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-05 18:05:34 [main:5] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-05 18:05:34 [Timer-0:7] -[INFO] read file info from config.properties...
+2018-12-05 18:05:34 [Timer-0:18] -[INFO] read git folder path from config.properties
+2018-12-05 18:05:34 [Timer-0:20] -[INFO] read svn folder path from config.properties
+2018-12-05 18:05:34 [Timer-0:20] -[INFO] get files from config.properties that not need to compare
+2018-12-05 18:05:34 [Timer-0:20] -[INFO] compare begin...
+2018-12-05 18:05:34 [Timer-0:21] -[INFO] get files from git folder
+2018-12-05 18:05:34 [Timer-0:22] -[INFO] get files from svn folder
+2018-12-05 18:05:34 [Timer-0:25] -[INFO] comparing...
+2018-12-05 18:05:34 [Timer-0:37] -[INFO] compare finished!
+2018-12-05 18:05:34 [Timer-0:52] -[ERROR] IO Exception!

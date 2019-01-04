@@ -1,0 +1,80 @@
+2018-12-04 15:32:34 [main:0] -[INFO] task start...
+2018-12-04 15:32:34 [main:2] -[INFO] read schedule info from config.properties
+2018-12-04 15:32:34 [main:27] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-04 15:32:34 [main:27] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-04 15:32:34 [Timer-0:29] -[INFO] read file info from config.properties...
+2018-12-04 15:32:34 [Timer-0:59] -[INFO] read git folder path from config.properties
+2018-12-04 15:32:34 [Timer-0:60] -[INFO] read svn folder path from config.properties
+2018-12-04 15:32:34 [Timer-0:61] -[INFO] get files from config.properties that not need to compare
+2018-12-04 15:32:34 [Timer-0:61] -[INFO] compare begin...
+2018-12-04 15:32:34 [Timer-0:61] -[INFO] get files from git folder
+2018-12-04 15:32:34 [Timer-0:74] -[ERROR] folder not exist!
+2018-12-04 15:33:34 [Timer-0:60028] -[INFO] read file info from config.properties...
+2018-12-04 15:33:34 [Timer-0:60030] -[INFO] read git folder path from config.properties
+2018-12-04 15:33:34 [Timer-0:60030] -[INFO] read svn folder path from config.properties
+2018-12-04 15:33:34 [Timer-0:60031] -[INFO] get files from config.properties that not need to compare
+2018-12-04 15:33:34 [Timer-0:60032] -[INFO] compare begin...
+2018-12-04 15:33:34 [Timer-0:60036] -[INFO] get files from git folder
+2018-12-04 15:33:34 [Timer-0:60038] -[ERROR] folder not exist!
+2018-12-04 15:34:34 [Timer-0:120028] -[INFO] read file info from config.properties...
+2018-12-04 15:34:34 [Timer-0:120030] -[INFO] read git folder path from config.properties
+2018-12-04 15:34:34 [Timer-0:120031] -[INFO] read svn folder path from config.properties
+2018-12-04 15:34:34 [Timer-0:120031] -[INFO] get files from config.properties that not need to compare
+2018-12-04 15:34:34 [Timer-0:120032] -[INFO] compare begin...
+2018-12-04 15:34:34 [Timer-0:120032] -[INFO] get files from git folder
+2018-12-04 15:34:34 [Timer-0:120033] -[ERROR] folder not exist!
+2018-12-04 15:35:11 [main:0] -[INFO] task start...
+2018-12-04 15:35:11 [main:2] -[INFO] read schedule info from config.properties
+2018-12-04 15:35:11 [main:6] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--20m
+2018-12-04 15:35:11 [main:6] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-04 15:35:11 [Timer-0:8] -[INFO] read file info from config.properties...
+2018-12-04 15:35:11 [Timer-0:9] -[INFO] read git folder path from config.properties
+2018-12-04 15:35:11 [Timer-0:11] -[INFO] read svn folder path from config.properties
+2018-12-04 15:35:11 [Timer-0:11] -[INFO] get files from config.properties that not need to compare
+2018-12-04 15:35:11 [Timer-0:11] -[INFO] compare begin...
+2018-12-04 15:35:11 [Timer-0:11] -[INFO] get files from git folder
+2018-12-04 15:35:16 [Timer-0:4822] -[INFO] get files from svn folder
+2018-12-04 16:02:47 [main:0] -[INFO] task start...
+2018-12-04 16:02:47 [main:2] -[INFO] read schedule info from config.properties
+2018-12-04 16:02:47 [main:3] -[ERROR] schedule argument period error, please check
+2018-12-04 16:04:28 [main:0] -[INFO] task start...
+2018-12-04 16:04:28 [main:1] -[INFO] read schedule info from config.properties
+2018-12-04 16:04:28 [main:2] -[ERROR] schedule argument period error, please check
+2018-12-04 16:05:17 [main:0] -[INFO] task start...
+2018-12-04 16:05:17 [main:2] -[INFO] read schedule info from config.properties
+2018-12-04 16:05:17 [main:3] -[ERROR] schedule argument period error, please check
+2018-12-04 16:05:31 [main:0] -[INFO] task start...
+2018-12-04 16:05:31 [main:2] -[INFO] read schedule info from config.properties
+2018-12-04 16:05:31 [main:3] -[ERROR] schedule argument period error, please check
+2018-12-04 16:07:07 [main:0] -[INFO] task start...
+2018-12-04 16:07:07 [main:2] -[INFO] read schedule info from config.properties
+2018-12-04 16:07:07 [main:3] -[ERROR] schedule argument period error, please check
+2018-12-04 16:07:25 [main:0] -[INFO] task start...
+2018-12-04 16:07:25 [main:2] -[INFO] read schedule info from config.properties
+2018-12-04 16:07:25 [main:3] -[ERROR] schedule argument period error, please check
+2018-12-04 16:08:16 [main:0] -[INFO] task start...
+2018-12-04 16:08:16 [main:2] -[INFO] read schedule info from config.properties
+2018-12-04 16:08:16 [main:3] -[ERROR] schedule argument period error, please check
+2018-12-04 16:08:29 [main:0] -[INFO] task start...
+2018-12-04 16:08:29 [main:2] -[INFO] read schedule info from config.properties
+2018-12-04 16:08:29 [main:5] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--20m
+2018-12-04 16:08:29 [main:6] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-04 16:08:29 [Timer-0:7] -[INFO] read file info from config.properties...
+2018-12-04 16:08:29 [Timer-0:8] -[INFO] read git folder path from config.properties
+2018-12-04 16:08:29 [Timer-0:10] -[INFO] read svn folder path from config.properties
+2018-12-04 16:08:29 [Timer-0:10] -[INFO] get files from config.properties that not need to compare
+2018-12-04 16:08:29 [Timer-0:10] -[INFO] compare begin...
+2018-12-04 16:08:29 [Timer-0:11] -[INFO] get files from git folder
+2018-12-04 16:08:30 [Timer-0:669] -[INFO] get files from svn folder
+2018-12-04 17:45:35 [main:0] -[INFO] task start...
+2018-12-04 17:45:35 [main:7] -[INFO] read schedule info from config.properties
+2018-12-04 17:45:35 [main:33] -[INFO] schedule props: starttime--Wed Nov 28 17:28:30 CST 2018  period--1m
+2018-12-04 17:45:35 [main:33] -[INFO] This task will begin at Wed Nov 28 17:28:30 CST 2018
+2018-12-04 17:45:35 [Timer-0:35] -[INFO] read file info from config.properties...
+2018-12-04 17:45:35 [Timer-0:36] -[INFO] read git folder path from config.properties
+2018-12-04 17:45:35 [Timer-0:37] -[INFO] read svn folder path from config.properties
+2018-12-04 17:45:35 [Timer-0:38] -[INFO] get files from config.properties that not need to compare
+2018-12-04 17:45:35 [Timer-0:38] -[INFO] compare begin...
+2018-12-04 17:45:35 [Timer-0:38] -[INFO] get files from git folder
+2018-12-04 17:45:35 [Timer-0:152] -[INFO] get files from svn folder
+2018-12-04 17:45:35 [Timer-0:226] -[INFO] comparing...
