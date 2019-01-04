@@ -73,7 +73,6 @@ public class GitUtil {
 	public static void main(String[] args) {
 //		System.out.print(pullCodeToLocal(localCodeDir, "a805370", "Hugc!1225"));
 		
-		System.out.print(cloneCodeToLocal(localCodeDir, remoteRepoGitDir, "a805370", "Hugc!1225"));
 	}
 
 }
